@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>SP</name>
+	<name>SPP</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,101 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/AbstractElement.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/AbstractElement.java</locationURI>
+		</link>
+		<link>
+			<name>src/AlignStrategy.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/AlignStrategy.java</locationURI>
+		</link>
+		<link>
+			<name>src/Autor.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Autor.java</locationURI>
+		</link>
+		<link>
+			<name>src/Capitol.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Capitol.java</locationURI>
+		</link>
+		<link>
+			<name>src/Carte.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Carte.java</locationURI>
+		</link>
+		<link>
+			<name>src/ColumnAlign.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/ColumnAlign.java</locationURI>
+		</link>
+		<link>
+			<name>src/Cuprins.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Cuprins.java</locationURI>
+		</link>
+		<link>
+			<name>src/DocumentStatisticVisitor.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/DocumentStatisticVisitor.java</locationURI>
+		</link>
+		<link>
+			<name>src/Element.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Element.java</locationURI>
+		</link>
+		<link>
+			<name>src/Imagine.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Imagine.java</locationURI>
+		</link>
+		<link>
+			<name>src/ImaginePorxy.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/ImaginePorxy.java</locationURI>
+		</link>
+		<link>
+			<name>src/LineAlign.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/LineAlign.java</locationURI>
+		</link>
+		<link>
+			<name>src/Main.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Main.java</locationURI>
+		</link>
+		<link>
+			<name>src/Paragraf.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Paragraf.java</locationURI>
+		</link>
+		<link>
+			<name>src/RowAlign.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/RaptorAlign.java</locationURI>
+		</link>
+		<link>
+			<name>src/Sectiune.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Sectiune.java</locationURI>
+		</link>
+		<link>
+			<name>src/Subcapitol.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Subcapitol.java</locationURI>
+		</link>
+		<link>
+			<name>src/Tabel.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Tabel.java</locationURI>
+		</link>
+		<link>
+			<name>src/Visitor.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Curs_Sabloane_de_proiectare-master/src/Visitor.java</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
